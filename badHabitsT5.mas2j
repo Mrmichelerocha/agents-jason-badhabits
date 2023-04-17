@@ -1,0 +1,19 @@
+MAS badHabitsT5 {
+
+	infrastructure: Centralised
+	
+	environment: badhabits.HouseEnv
+
+	agents:
+		wake;
+		horary;
+		strategy;
+		lamp;
+		sleep;
+		
+	classpath: "/Hibernate";
+				"/MySQL";
+
+	aslSourcePath:
+		"src/asl";
+}
