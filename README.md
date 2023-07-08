@@ -2,7 +2,8 @@
 
 O projeto de monitoramento de sono com ESP8266 e a plataforma JASON para multiagentes é uma solução inovadora que combina a tecnologia de IoT (Internet of Things) e a inteligência artificial para acompanhar e analisar a qualidade do sono de forma eficiente. O objetivo principal do projeto é fornecer aos usuários informações detalhadas sobre o seu padrão de sono, ajudando-os a melhorar a qualidade do descanso.
 
-![image](https://github.com/Mrmichelerocha/web-badhabits/assets/93664169/acde63bf-0e3f-42e8-89e9-2d9491b5fdcb )
+![Captura de tela 2023-07-08 111714](https://github.com/Mrmichelerocha/agents-jason-badhabits/assets/93664169/5e88aa61-f7ac-4d94-9cd3-3de57088a6e4)
+
 
 
 
